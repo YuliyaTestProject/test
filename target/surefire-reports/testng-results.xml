@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="192" started-at="2017-11-29T14:40:52Z" finished-at="2017-11-29T14:40:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="192" started-at="2017-11-29T14:40:52Z" finished-at="2017-11-29T14:40:52Z">
+      <class name="Tests">
+        <test-method status="PASS" signature="Exception3Test()[pri:0, instance:Exception3Test(Tests)]" name="Exception3Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception3Test -->
+        <test-method status="PASS" signature="Exception2Test()[pri:0, instance:Exception2Test(Tests)]" name="Exception2Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception2Test -->
+        <test-method status="PASS" signature="Exception1Test()[pri:0, instance:Exception1Test(Tests)]" name="Exception1Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception1Test -->
+        <test-method status="PASS" signature="Exception9Test()[pri:0, instance:Exception9Test(Tests)]" name="Exception9Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception9Test -->
+        <test-method status="PASS" signature="Exception5Test()[pri:0, instance:Exception5Test(Tests)]" name="Exception5Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception5Test -->
+        <test-method status="PASS" signature="Exception10Test()[pri:0, instance:Exception10Test(Tests)]" name="Exception10Test" duration-ms="60" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception10Test -->
+        <test-method status="PASS" signature="Exception4Test()[pri:0, instance:Exception4Test(Tests)]" name="Exception4Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception4Test -->
+        <test-method status="PASS" signature="Exception6Test()[pri:0, instance:Exception6Test(Tests)]" name="Exception6Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception6Test -->
+        <test-method status="PASS" signature="Exception8Test()[pri:0, instance:Exception8Test(Tests)]" name="Exception8Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception8Test -->
+        <test-method status="PASS" signature="Exception7Test()[pri:0, instance:Exception7Test(Tests)]" name="Exception7Test" duration-ms="0" started-at="2017-11-29T16:40:52Z" finished-at="2017-11-29T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exception7Test -->
+      </class> <!-- Tests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
