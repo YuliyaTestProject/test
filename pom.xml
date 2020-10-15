@@ -24,6 +24,12 @@
 
 
     </dependencies>
+         <distributionManagement>
+   <repository>
+      <id>nexus-site</id>
+        <url>http://central_nexus/server</url>
+   </repository>
+</distributionManagement>
     <build>
         <pluginManagement>
             <plugins>
