@@ -24,7 +24,7 @@
     </dependencies>
 <distributionManagement>
    <repository>
-      <id>nexus-site</id>
+      <id>github</id>
         <url>https://github.com/YuliyaTestProject/test.git</url>
    </repository>
 </distributionManagement>
