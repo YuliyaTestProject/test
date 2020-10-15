@@ -21,13 +21,11 @@
             <version>6.8</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
-         <distributionManagement>
+<distributionManagement>
    <repository>
       <id>nexus-site</id>
-        <url>http://central_nexus/server</url>
+        <url>https://github.com/YuliyaTestProject/test.git</url>
    </repository>
 </distributionManagement>
     <build>
